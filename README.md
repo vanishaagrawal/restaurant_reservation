@@ -26,5 +26,5 @@
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/hasithaa02/restaurant-reservation.git
+git clone https://github.com/vanishaagrawal/restaurant-reservation.git
 cd restaurant-reservation
